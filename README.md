@@ -1,5 +1,5 @@
 # DDOS
-DDoS class in CLI (command line input)
+DDoS class in CLI (command line input)<br />
 You need at least PHP-CLI installed
 #### HOW TO USE
   1.Open your terminal<br />
